@@ -11,6 +11,96 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="AppAgenda"
+        android:padding="15dp"
+        android:textSize="50dp"
+        android:background="#0f0"
         />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="AppAgenda"
+        android:textSize="30dp"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        android:layout_gravity="center_horizontal"
+        android:background="#f00"
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#DADADA"
+            android:padding="15dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:background="#AEAEAE"
+                    android:src="@drawable/avatar"
+                    android:padding="5dp"/>
+
+                <Button
+                    android:layout_width="51dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="50dp"
+                    android:background="@android:drawable/ic_menu_camera" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/txtName"
+                style="@style/labels"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                style="@style/fields"
+                android:inputType="textCapWords"
+                android:hint="@string/txtNameHint"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/txtPhone"
+                style="@style/labels"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                style="@style/fields"
+                android:inputType="phone"
+                android:hint="@string/txtPhoneHint"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/txtEmail"
+                style="@style/labels"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                style="@style/fields"
+                android:inputType="textEmailAddress"
+                android:hint="@string/txtEmailHint"/>
+
+        </LinearLayout>
+    </ScrollView>
+
 
 </LinearLayout>
