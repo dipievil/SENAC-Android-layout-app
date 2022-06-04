@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppLayouts</string>
+    <string name="txtName">"Name: "</string>
+    <string name="txtNameHint">Type your name</string>
+    <string name="txtPhone">Phone: </string>
+    <string name="txtPhoneHint">Type your phone</string>
+    <string name="txtEmail">E-mail: </string>
+    <string name="txtEmailHint">Input ypur e-mail</string>
+</resources>

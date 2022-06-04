@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AppLayouts</string>
+    <string name="txtName">Nome: </string>
+    <string name="txtNameHint">Digite seu nome</string>
+    <string name="txtPhone">Fone: </string>
+    <string name="txtPhoneHint">Digite seu telefone</string>
+    <string name="txtEmail">E-mail: </string>
+    <string name="txtEmailHint">Digite seu e-mail</string>
 </resources>
