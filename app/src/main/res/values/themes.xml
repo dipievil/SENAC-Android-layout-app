@@ -16,6 +16,7 @@
 
     <style name="labels" parent="Theme.AppLayouts">
         <item name="android:textSize">20dp</item>
+        <item name="android:paddingTop">10dp</item>
     </style>
 
     <style name="fields" parent="Theme.AppLayouts">
