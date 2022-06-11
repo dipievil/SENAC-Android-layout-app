@@ -7,4 +7,8 @@
     <string name="txtPhoneHint">Type your phone</string>
     <string name="txtEmail">E-mail: </string>
     <string name="txtEmailHint">Input ypur e-mail</string>
+    <string name="txtGender">Gender</string>
+    <string name="txtFemale">Female</string>
+    <string name="txtPrefiroNaoResponder">Prefer not answer</string>
+    <string name="txtMale">Male</string>
 </resources>

@@ -6,4 +6,8 @@
     <string name="txtPhoneHint">Digite seu telefone</string>
     <string name="txtEmail">E-mail: </string>
     <string name="txtEmailHint">Digite seu e-mail</string>
+    <string name="txtGender">Gênero</string>
+    <string name="txtFemale">Feminino</string>
+    <string name="txtMale">Masculino</string>
+    <string name="txtPrefiroNaoResponder">Prefiro não  responder</string>
 </resources>
