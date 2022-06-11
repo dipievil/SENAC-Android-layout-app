@@ -11,6 +11,8 @@
     <string name="txtFemale">Female</string>
     <string name="txtPrefiroNaoResponder">Prefer not answer</string>
     <string name="txtMale">Male</string>
+    <string name="txItemSelectStateWarning">You must select a State</string>
+
     <string-array name="arState">
         <item>Selecione...</item>
         <item>AC</item>

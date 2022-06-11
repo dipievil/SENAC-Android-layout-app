@@ -11,6 +11,9 @@
     <string name="txtMale">Masculino</string>
     <string name="txtPrefiroNaoResponder">Prefiro não  responder</string>
     <string name="txtAcceptEmail">Aceita receber e-mail?</string>
+    <string name="txtCidade">Cidade</string>
+    <string name="txtSave">Salvar</string>
+    <string name="txItemSelectStateWarning">You must select a State</string>
 
     <string-array name="arState">
         <item>Selecione...</item>
@@ -42,6 +45,4 @@
         <item>SE</item>
         <item>TO</item>
     </string-array>
-    <string name="txtCidade">Cidade</string>
-    <string name="txtSave">Salvar</string>
 </resources>
