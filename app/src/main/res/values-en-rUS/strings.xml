@@ -11,4 +11,36 @@
     <string name="txtFemale">Female</string>
     <string name="txtPrefiroNaoResponder">Prefer not answer</string>
     <string name="txtMale">Male</string>
+    <string-array name="arState">
+        <item>Selecione...</item>
+        <item>AC</item>
+        <item>AL</item>
+        <item>AP</item>
+        <item>AM</item>
+        <item>BA</item>
+        <item>CE</item>
+        <item>DF</item>
+        <item>ES</item>
+        <item>GO</item>
+        <item>MA</item>
+        <item>MT</item>
+        <item>MS</item>
+        <item>MG</item>
+        <item>PA</item>
+        <item>PB</item>
+        <item>PR</item>
+        <item>PE</item>
+        <item>PI</item>
+        <item>RJ</item>
+        <item>RN</item>
+        <item>RS</item>
+        <item>RO</item>
+        <item>RR</item>
+        <item>SC</item>
+        <item>SP</item>
+        <item>SE</item>
+        <item>TO</item>
+    </string-array>
+    <string name="txtCidade">City</string>
+    <string name="txtSave">Save</string>
 </resources>
