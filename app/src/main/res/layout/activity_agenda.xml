@@ -170,7 +170,9 @@
             <Spinner
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:entries="@array/arState"/>
+                android:entries="@array/arState"
+                android:id="@+id/spCity"
+                />
 
             <Button
                 android:layout_width="wrap_content"
